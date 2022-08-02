@@ -24,7 +24,8 @@ The company asked me to create a model to predict the prices based on the Airbnb
 - Random Forest Regressor
 - Linear Regression
 - Kmeans 
-    - Used Kmeans to group the locations before modeling,which slightly improve the model. Here is a map of the Clustering![image](https://user-images.githubusercontent.com/104875604/182276896-aba244fa-2cb7-437c-81b9-d75954f2c68e.png)
+    - Used Kmeans to group the locations before modeling,which slightly improve the model. Here is a map of the Clustering
+![image](https://user-images.githubusercontent.com/104875604/182276896-aba244fa-2cb7-437c-81b9-d75954f2c68e.png)
 
 ## Key Findings 
 ![Screen Shot 2022-08-01 at 9 21 39 PM](https://user-images.githubusercontent.com/104875604/182277876-59e0a7e9-89a1-4937-acd1-134a7ff62145.png)
